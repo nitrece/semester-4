@@ -4,11 +4,11 @@
 <br>
 
 Courses:
-- [mathematics-4](https://github.com/nitrece/mathematics-4)
-- [digital-electronics](https://github.com/nitrece/digital-electronics)
-- [semiconductor-devices](https://github.com/nitrece/semiconductor-devices)
-- [electrical-engineering](https://github.com/nitrece/electrical-engineering)
-- [language-laboratory](https://github.com/nitrece/language-laboratory)
-- [analog-electronics-laboratory](https://github.com/nitrece/analog-electronics-laboratory)
-- [digital-electronics-laboratory](https://github.com/nitrece/digital-electronics-laboratory)
-- [electrical-engineering-laboratory](https://github.com/nitrece/electrical-engineering-laboratory)
+- [Mathematics 4](https://github.com/nitrece/mathematics-4)
+- [Digital Electronics](https://github.com/nitrece/digital-electronics)
+- [Semiconductor Devices](https://github.com/nitrece/semiconductor-devices)
+- [Electrical Engineering](https://github.com/nitrece/electrical-engineering)
+- [Language Laboratory](https://github.com/nitrece/language-laboratory)
+- [Analog Electronics Laboratory](https://github.com/nitrece/analog-electronics-laboratory)
+- [Digital Electronics Laboratory](https://github.com/nitrece/digital-electronics-laboratory)
+- [Electrical Engineering Laboratory](https://github.com/nitrece/electrical-engineering-laboratory)
