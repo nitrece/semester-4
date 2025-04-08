@@ -12,3 +12,5 @@ Courses:
 - [Analog Electronics Laboratory](https://github.com/nitrece/analog-electronics-laboratory)
 - [Digital Electronics Laboratory](https://github.com/nitrece/digital-electronics-laboratory)
 - [Electrical Engineering Laboratory](https://github.com/nitrece/electrical-engineering-laboratory)
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/semester-4)
